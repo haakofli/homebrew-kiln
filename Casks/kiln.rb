@@ -1,6 +1,6 @@
 cask "kiln" do
-  version "0.4.0"
-  sha256 "5a4913758d2155e84efcef8f50828bd65c247a0cc280ee2f167a222ab01ad5cd"
+  version "0.5.0"
+  sha256 "0705daa5568e5f7dcfcd25c287768bc66c4778e7712d8f96044bae6fb3a27347"
 
   url "https://kiln-games.com/studio/download/#{version}/Kiln_#{version}_aarch64.dmg"
   name "Kiln"
